@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @yusuffisik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yusuffisik/yusuffisik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+name: Yusuf IŞIK
+role: Senior FullStack Developer
+location: Türkiye
+focus:
+  - .NET Core & Microservices Architecture
+  - CQRS, DDD & Clean Architecture
+  - High-Performance Distributed Systems
+stack:
+  backend: [".NET 8", "C#", "Web API", "gRPC", "SignalR"]
+  data: ["PostgreSQL", "MSSQL", "MongoDB", "Redis", "Elasticsearch"]
+  messaging: ["RabbitMQ", "MassTransit"]
+  devops: ["Docker", "Kubernetes", "Nginx", "CI/CD"]
+  monitoring: ["Prometheus", "Grafana", "Serilog", "Seq"]
+motto: "Clean code, scalable systems, continuous improvement."
