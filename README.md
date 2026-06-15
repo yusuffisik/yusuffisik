@@ -4,7 +4,7 @@
 
   # Yusuf IŞIK
 
-  **Senior FullStack Developer | Türkiye**
+  **Senior Fullstack Developer | Türkiye**
 
   <a href="https://www.linkedin.com/in/dev-yusuf-isik/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,18 +33,20 @@
 
 ```yaml
 name: Yusuf IŞIK
-role: Senior Backend Developer
+role: Senior Fullstack Developer
 location: Türkiye
+experience: "11 years"
 focus:
-  - .NET Core & Microservices Architecture
-  - CQRS, DDD & Clean Architecture
-  - High-Performance Distributed Systems
+  - React JS & React Native (Frontend / Mobile)
+  - .NET Core & Node.js (Backend)
+  - Microservices & Onion Architecture
 stack:
-  backend: [".NET & .NET CORE", "C#", "Web API", "gRPC", "SignalR"]
-  data: ["PostgreSQL", "MSSQL", "MongoDB", "Redis", "Elasticsearch"]
+  frontend: ["React JS", "React Native", "TypeScript", "JavaScript", "Redux"]
+  backend: [".NET Core", "C#", "Node.js", "Web API", "SignalR", "WebRTC"]
+  data: ["MSSQL", "MongoDB"]
   messaging: ["RabbitMQ", "MassTransit"]
-  devops: ["Docker", "Kubernetes", "Nginx", "CI/CD"]
-  monitoring: ["Prometheus", "Grafana", "Serilog", "Seq"]
+  devops: ["Azure DevOps", "Jenkins", "Git", "CI/CD"]
+  architecture: ["Microservices", "Onion Architecture", "Event Sourcing"]
 motto: "Clean code, scalable systems, continuous improvement."
 ```
 
@@ -62,25 +64,25 @@ motto: "Clean code, scalable systems, continuous improvement."
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs&perline=3" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts&perline=2" />
+      <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js&perline=2" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=2" />
+      <img src="https://skillicons.dev/icons?i=mssql,mongodb&perline=2" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux&perline=2" />
+      <img src="https://skillicons.dev/icons?i=azure,git,github&perline=3" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,azure&perline=2" />
+      <img src="https://skillicons.dev/icons?i=jira,postman&perline=2" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,rabbitmq,elasticsearch,aws,cloudflare,figma,sqlite,mssql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,redux,rabbitmq,signalr,vscode,figma" />
 </p>
 
 ---
@@ -112,5 +114,5 @@ motto: "Clean code, scalable systems, continuous improvement."
 </p>
 
 <p align="center">
-  <i>Crafting scalable backend systems & beautiful developer experiences.</i>
+  <i>Building full-stack products with React, .NET Core & Node.js — from pixel to pipeline.</i>
 </p>
